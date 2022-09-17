@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gourish Narang</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Docker**
+- 🔭 I’m currently working on **Kotlin**
 
 - 🌱 I’m currently learning **Linux Fundamentals**
 
