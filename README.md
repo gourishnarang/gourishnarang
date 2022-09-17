@@ -1,4 +1,4 @@
-![alt text](https://github.com/gourishnarang/gourishnarang/blob/main/Pink%20Pastel%20Metaverse%20Twitter%20Header%20(1280%20%C3%97%20640%20px).png)
+![alt text](https://github.com/gourishnarang/gourishnarang/blob/main/Pink%20Pastel%20Metaverse%20Twitter%20Header%20(1920%20%C3%97%201080%20px).png)
 <h1 align="center">Hi 👋, I'm Gourish Narang</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
