@@ -1,4 +1,3 @@
-![alt text](https://github.com/gourishnarang/gourishnarang/blob/main/Pink%20Pastel%20Metaverse%20Twitter%20Header%20(1920%20%C3%97%201080%20px).png)
 <h1 align="center">Hi 👋, I'm Gourish Narang</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **gourishnarang.work@gmail.com**
 
-- ⚡ Fun fact **I'm a foodie**
+- ⚡ Fun fact **I'm a great Chef**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
