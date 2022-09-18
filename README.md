@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kotlin**
 
-- 🌱 I’m currently learning **Linux Fundamentals**
+- 🌱 I’m currently learning **DS & Algo in JAVA**
 
 - 🤝 I’m looking for help with **DevOps**
 
