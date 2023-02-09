@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gourish Narang</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Kotlin**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **DS & Algo in JAVA**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 🤝 I’m looking for help with **DevOps**
 
