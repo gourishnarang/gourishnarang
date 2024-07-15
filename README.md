@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gourish Narang</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate product manager from India</h3>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Coldop - My Passion Project**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Analytics**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for roles in **Product Management**
 
-- 👨‍💻 All of my projects are available at [https://gourishnarang.netlify.app/](https://gourishnarang.netlify.app/)
-
-- 💬 Ask me about **UI/UX & Frontend Devlopment**
+- 💬 Ask me about **UX, Product Development and Management**
 
 - 📫 How to reach me **gourishnarang.work@gmail.com**
 
